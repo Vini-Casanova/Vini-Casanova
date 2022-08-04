@@ -5,7 +5,6 @@
 </p>
 
 
-
 <h3 align="center">Reach out to me, i will respond as soon as i'm able:</h3>
 < align="left">
 <a href="https://www.linkedin.com/in/vinicius-casanova-624716230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vini-Casanova" height="30" width="40" /></a>
@@ -28,6 +27,9 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vini-Casanova&show_icons=true&locale=en&layout=compact" alt="Vini-Casanova" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vini-Casanova&show_icons=true&locale=en&layout=compact" alt="Vini-Casanova" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vini-Casanova&show_icons=true&locale=en" alt="Vini-Casanova" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Vini-Casanova&show_icons=true&locale=en" alt="Vini-Casanova" /></p>
+</div>
+

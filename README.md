@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Vinicius, wellcome to my page</h1>
 
-<p aling="center">
+<p align="center">
   A passionate backend Developer
 </p>
 
 
-<h3 align="center">Reach out to me, i will respond as soon as i'm able:</h3>
+<h3 align="center">Reach out to me, would be awasome to talk with you:</h3>
 <a aling="left" href="https://www.linkedin.com/in/vinicius-casanova-624716230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vini-Casanova" height="30" width="40" /></a>
 
 </p>

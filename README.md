@@ -8,7 +8,7 @@
 
 
 <h3 align="center">Reach out to me, would be awasome to talk with you:</h3>
-<a aling="center" href="https://www.linkedin.com/in/vinicius-casanova-624716230/" target="blank"><img aling="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vini-Casanova" height="30" width="40" /></a>
+<a align="center" href="https://www.linkedin.com/in/vinicius-casanova-624716230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vini-Casanova" height="30" width="40" /></a>
 
 </p>
 
